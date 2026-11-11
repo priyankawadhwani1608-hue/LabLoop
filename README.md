@@ -82,11 +82,11 @@ LabLoop/
 │   ├── LabManager.cpp
 │   ├── FileManager.cpp
 │   └── Menu.cpp
-├── equipment.txt
-├── bookings.txt
-├── maintenance.txt
+├── .gitignore
 └── README.md
 ```
+
+The `equipment.txt`, `bookings.txt`, and `maintenance.txt` files are generated at runtime and are intentionally excluded from version control.
 
 ## Getting Started
 
