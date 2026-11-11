@@ -48,7 +48,7 @@ void Student::reportDamage() {
 // LabAssistant implementation
 
 LabAssistant::LabAssistant(int id, string n, string e)
-    : User(id, name, email) {}
+    : User(id, n, e) {}
 
 string LabAssistant::getRole() const {
     return "Lab Assistant";
